@@ -1,0 +1,16 @@
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\bin\Debug\BluetoothAuthenticationDemo.exe.config
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.csprojResolveAssemblyReference.cache
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.Form1.resources
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.Properties.Resources.resources
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.csproj.GenerateResource.Cache
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\bin\Debug\BluetoothAuthenticationDemo.exe
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\bin\Debug\BluetoothAuthenticationDemo.pdb
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\bin\Debug\InTheHand.Net.Personal.dll
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\bin\Debug\InTheHand.Net.Personal.xml
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.exe
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.pdb
+c:\users\thehaohcm\documents\visual studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.WaitingBluetooth.resources
+C:\Users\thehaohcm\Documents\Visual Studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\bin\Debug\MySql.Data.dll
+C:\Users\thehaohcm\Documents\Visual Studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.Form2.resources
+C:\Users\thehaohcm\Documents\Visual Studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.Form3.resources
+C:\Users\thehaohcm\Documents\Visual Studio 2015\Projects\BluetoothAuthenticationDemo\BluetoothAuthenticationDemo\obj\Debug\BluetoothAuthenticationDemo.DialogForm1.resources
